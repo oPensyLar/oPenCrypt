@@ -21,7 +21,6 @@ Hi, es un simple crypter basado en algoritmos propios, no crea secciones nuevas 
 - Report issues
 - Open pull request with improvements
 - Spread the word
-- Reach out to me directly at kamranahmed.se@gmail.com or on twitter [@kamranahmedse](http://twitter.com/kamranahmedse)
 
 ## License
 GPLv3 
